@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there 👋 I'm Md Naqui
 
-<!--
-**MdNaqui4/MdNaqui4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **Software Developer** who loves building scalable applications and solving real-world problems through code.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on improving my full-stack development skills  
+- 🌱 I’m continuously learning new technologies  
+- 👯 I’m open to collaborating on exciting software projects  
+- 💬 Ask me about Web Development & Programming  
+- 📫 Reach me through GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+JavaScript | Python | Java | C++
+
+### ⚙️ Frameworks & Libraries
+React | Node.js | Express
+
+### 🗄️ Databases
+MongoDB | MySQL
+
+### 🛠️ Tools
+Git | GitHub | VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![MdNaqui4's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdNaqui4&show_icons=true&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdNaqui4&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=MdNaqui4&theme=radical&no-frame=true&margin-w=10)
+
+---
+
+## 🌎 Connect With Me
+
+- 💼 GitHub: https://github.com/MdNaqui4
+
+---
+
+⭐️ From [MdNaqui4](https://github.com/MdNaqui4)
