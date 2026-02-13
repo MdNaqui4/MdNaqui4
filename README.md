@@ -1,54 +1,75 @@
-# Hi there 👋 I'm Md Naqui
+<h1 align="center">Hi 👋, I'm Md Naqui</h1>
+<h3 align="center">🚀 Software Developer | Problem Solver | Tech Enthusiast</h3>
 
-## 🚀 About Me
-I'm a passionate **Software Developer** who loves building scalable applications and solving real-world problems through code.
-
-- 🔭 I’m currently working on improving my full-stack development skills  
-- 🌱 I’m continuously learning new technologies  
-- 👯 I’m open to collaborating on exciting software projects  
-- 💬 Ask me about Web Development & Programming  
-- 📫 Reach me through GitHub  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech;Building+Cool+Things+With+Code" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-### 💻 Languages
-JavaScript | Python | Java | C++
+- 💻 Passionate about building scalable and modern applications  
+- 🌱 Always learning and exploring new technologies  
+- 🔥 Love solving real-world problems with code  
+- 🤝 Open to collaboration and exciting projects  
+- ⚡ Fun fact: I debug with coffee ☕  
 
-### ⚙️ Frameworks & Libraries
-React | Node.js | Express
+---
 
-### 🗄️ Databases
-MongoDB | MySQL
+## ⚙️ Tech Stack
 
-### 🛠️ Tools
-Git | GitHub | VS Code
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" />
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![MdNaqui4's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdNaqui4&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdNaqui4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdNaqui4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdNaqui4&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdNaqui4&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MdNaqui4&theme=radical&no-frame=true&margin-w=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MdNaqui4&theme=onedark&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
 
 ---
 
-## 🌎 Connect With Me
+## 🌌 Contribution Graph
 
-- 💼 GitHub: https://github.com/MdNaqui4
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdNaqui4&theme=react-dark&hide_border=true&bg_color=0D1117"/>
+</p>
 
 ---
 
-⭐️ From [MdNaqui4](https://github.com/MdNaqui4)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/MdNaqui4">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
